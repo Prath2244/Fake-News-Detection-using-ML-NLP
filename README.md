@@ -35,7 +35,7 @@
 
 **NeuroCare** is a clinical-grade EEG analysis platform that automatically classifies depression severity based on neurophysiological patterns. It combines machine learning with a user-friendly web interface to provide instant risk assessment, confidence scoring, and downloadable clinical reports.
 
-The system analyzes **56 EEG features** across 14 brain electrodes (Fp1, Fp2, F3, F4, C3, C4, P3, P4, O1, O2, F7, F8, T3, T4) plus Heart Rate Variability (HRV), training a Gradient Boosting classifier to distinguish between Normal, Mild Risk, Moderate, and Severe depression levels with **99.75% accuracy**.
+The system analyzes **56 EEG features** across 14 brain electrodes (Fp1, Fp2, F3, F4, C3, C4, P3, P4, O1, O2, F7, F8, T3, T4) plus Heart Rate Variability (HRV), training a Gradient Boosting classifier to distinguish between Normal, Mild Risk, Moderate, and Severe depression levels with **94.75% accuracy**.
 
 ---
 
